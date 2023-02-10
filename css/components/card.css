@@ -1,0 +1,28 @@
+.card-category{
+  height: 267px;
+  width: 315px;
+
+  align-items: start;
+  justify-content: center;
+  margin: 0 auto;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50px;
+  box-shadow: 2px 20px 30px rgba(0,0,0,.5);
+
+  text-align: center;
+}
+
+.img-title {
+  transform: translateY(100%);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: dashed;
+}
+
+.img-btn {
+  position: relative;
+  bottom: -183px;
+  z-index: 10;
+}

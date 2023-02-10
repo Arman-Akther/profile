@@ -1,0 +1,22 @@
+.info-container {
+  color: #2A2B2A;
+  background-color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 69%;
+  margin: 0 auto;
+  padding: 32px;
+  border-radius: 15px;
+}
+
+.img-container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+h1, h2{
+  color: orangered;
+  text-shadow: 0 10px 30px rgba(0,0,0,.3);
+}

@@ -1,0 +1,9 @@
+.icons {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 69%;
+  margin: 0 auto;
+  padding: 16px 0;
+}

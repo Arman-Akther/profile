@@ -1,0 +1,51 @@
+@import url(./components/container.css);
+@import url(./components/card.css);
+@import url(./components/icon.css);
+
+/* body {
+  background-color: antiquewhite;
+} */
+
+html {
+  background: transparent;
+}
+
+.background-image {
+  background-image: url("/profile/images/creation of adam.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 140vh;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  background-attachment: fixed;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+a {
+  color: #2A2B2A;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.5rem;
+  transition: all 0.3s;
+}
+
+a:hover {
+  color: #dda15e;
+  font-size: 2rem;
+}
+
+.baby-img {
+  height: 400px;
+  border-radius: 50%;
+}
+
+/* .fa-instagram, .fa-github, .fa-youtube {
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+} */
